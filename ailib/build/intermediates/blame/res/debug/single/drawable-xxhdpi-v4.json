@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\speaker.png",
+        "source": "C:\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\speaker.png"
+    },
+    {
+        "merged": "C:\\Program Files\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\speaker.png",
+        "source": "C:\\Program Files\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\speaker.png"
+    },
+    {
+        "merged": "C:\\Program Files\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphone_control.png",
+        "source": "C:\\Program Files\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\microphone_control.png"
+    },
+    {
+        "merged": "C:\\Program Files\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cube.png",
+        "source": "C:\\Program Files\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\cube.png"
+    },
+    {
+        "merged": "C:\\Program Files\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\speaker_silent.png",
+        "source": "C:\\Program Files\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\speaker_silent.png"
+    },
+    {
+        "merged": "C:\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\speaker_silent.png",
+        "source": "C:\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\speaker_silent.png"
+    },
+    {
+        "merged": "C:\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphone_control.png",
+        "source": "C:\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\microphone_control.png"
+    },
+    {
+        "merged": "C:\\TUPER-master\\ailib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cube.png",
+        "source": "C:\\TUPER-master\\ailib\\src\\main\\res\\drawable-xxhdpi\\cube.png"
+    }
+]
